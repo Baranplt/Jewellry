@@ -1,0 +1,18 @@
+@import url(helper.css);
+@import url(layaout.css);
+
+li {
+    list-style-type: none;
+}
+
+.hero {
+    max-height: 650px;
+    z-index: 99999;
+    position: relative;
+}
+
+.card {
+    background: #FFFFFF;
+    box-shadow: 0px 12px 32px rgba(0, 22, 35, 0.0817482);
+    border-radius: 20px;
+}
